@@ -1,0 +1,10 @@
+name: ServerGUI
+version: 1.0
+author: Reheight
+description: Allow users to select the server they wish to join!
+main: me.reheight.servergui.Main
+
+commands:
+  server:
+    usage: /server
+    description: Allows a server to choose a server they wish to connect to!
